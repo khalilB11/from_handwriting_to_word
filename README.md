@@ -2,7 +2,7 @@
 
 ## Overview
 
-During the exam phase, professors often face the repetitive and time-consuming task of correcting student exams. This process involves two major challenges:
+During the exam phase, professors often face the repetitive task of correcting student exams. This process involves two major challenges:
 
 1. **Handwriting Recognition**: Deciphering diverse and sometimes illegible handwriting styles of students.
 2. **Answer Comparison**: Comparing student responses with reference answers provided by the professor, which can be labor-intensive and prone to inconsistencies.
